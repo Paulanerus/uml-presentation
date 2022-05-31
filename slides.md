@@ -22,9 +22,9 @@ themeConfig:
 
 ---
 
-# Hinführung
+# Probleme bei der Entwicklung von Software und Systemen
 
-- Wann wird es verwendet und Warum
+<img width="500" src="/images/group.jpg" alt="group">
 
 ---
 
@@ -274,9 +274,14 @@ Gewächshaus haus(PflanzenSlot);
 
 # UML in der Softwareentwicklung
 
-- **Wann wird es verwendet und Warum?**
+- **Wann wird es verwendet**
+  - Am Anfang kann aber schnell während des Projekts erweitert werden
 
-  - Weil Baum
+- **Warum wird es verwendet?**
+
+  - Systemanalyse/ -architektur
+  - Softwareanalyse/ -architektur
+  - bessere Abschätzung für den Kunden (eine Art Schnittstelle)
 
 - **Tools**
   - Papier und Stift

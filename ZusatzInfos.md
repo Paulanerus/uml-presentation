@@ -3,7 +3,7 @@
 ### Hinführung
 
 ==TODO==
-Warum wir Software modellieren sollten
+Probleme bei der Entwicklung von Software und Systemen
 
 ### Was ist UML?
 
@@ -14,8 +14,6 @@ Einige andere Modellierungssprachen hatten einen direkten/indirekten Einfluss au
 
 **Use Case Diagramm**
 Zeigt das externe Verhalten eines Elements aus der Sicht der Nutzer, indem es die Nutzer (Aktuere) die Use-Cases und deren Beziehung darstellt.
-Legt schon am Anfang übersichtlich fest, was zum System (Element) gehört und was nicht. Was man entwickelt (Kosten) und welche Schnittstellen man gerecht werden muss (Anforderung).
-Hilft also zum planen eines neuen Systems oder Erweiterung eines bereits bestehenden.
 
 dazu müssten die dahinterstehenden Abläufe genauer beschrieben werden mit Hilfe von einfachen Texten bis verschiedenen Diagrammen der UML
 
@@ -50,7 +48,9 @@ _include-Beziehung_
 [Beispiel] Kundendaten Use-Cases sehen nur das Ergebnis von Berechtigung prüfen
 
 _Assoziation_
+
 - Kann Informationen halten, wie oft damit interagiert werden kann
+
 ---
 
 Klassendiagramm
@@ -59,7 +59,8 @@ Klassendiagramm
 
 ### UML in der Softwareentwicklung
 
-==TODO== Wann wird es verwendet und Warum?
+Legt schon am Anfang übersichtlich fest, was zum System (Element) gehört und was nicht. Was man entwickelt (Kosten) und welche Schnittstellen man gerecht werden muss (Anforderung).
+Hilft also zum planen eines neuen Systems oder Erweiterung eines bereits bestehenden.
 
 ---
 
