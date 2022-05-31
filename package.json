@@ -11,5 +11,8 @@
     "@slidev/theme-seriph": "*",
     "slidev-theme-academic": "^1.0.0"
   },
-  "name": "uml-vortrag"
+  "name": "uml-vortrag",
+  "devDependencies": {
+    "playwright-chromium": "^1.22.2"
+  }
 }
