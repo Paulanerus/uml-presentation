@@ -70,4 +70,8 @@ https://www.lucidchart.com/pages/de/was-ist-ein-uml-diagramm
 https://de.ryte.com/wiki/Unified_Modeling_Language
 http://www.codeadventurer.de/?p=2428
 
+[Bild 1] https://www.herole.de/blog/wp-content/uploads/schueler-arbeit-pc-1024x683.jpg
+
+[Bild 2 - 8] siehe Buch
+
 Rupp, Chris (2008), UML 2 glasklar, 3. Auflage, München

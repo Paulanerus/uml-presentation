@@ -5,7 +5,7 @@ coverDate: 1/6/2022
 themeConfig:
   paginationX: r
   paginationY: b
-  paginationPagesDisabled: [1, 2]
+  paginationPagesDisabled: [1, 2, 16]
 ---
 
 # UML in der Softwareentwicklung
@@ -286,3 +286,10 @@ Gewächshaus haus(PflanzenSlot);
 - **Tools**
   - Papier und Stift
   - Zahlreiche online und offline Tools
+
+---
+layout: center
+---
+
+# Danke für Eure Aufmerksamkeit!
+Noch Fragen?
